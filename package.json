@@ -1,5 +1,5 @@
 {
-  "name": "i18n",
+  "name": "translations",
   "version": "1.0.1",
   "license": "MIT",
   "main": "index.js",
