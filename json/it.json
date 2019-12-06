@@ -1,79 +1,79 @@
 {
   "@global": {
-    "next": "Next",
-    "back": "Back",
-    "close": "Close",
-    "creator": "Creator",
-    "user": "User"
+    "next": "Successivo",
+    "back": "Indietro",
+    "close": "Chiudi",
+    "creator": "Creatore",
+    "user": "Utente"
   },
   "@alert": {
     "email-regex": {
-      "title": "That doesn't look like an email!",
-      "description": "Please sure you typed your email correctly."
+      "title": "Non è un email",
+      "description": "Controlla di aver inserito un email corretta!"
     },
     "no-password": {
       "title": "No password",
-      "description": "Please enter your password"
+      "description": "Inserisci la tua password"
     },
     "no-username": {
-      "title": "Error",
-      "description": "You must enter a username"
+      "title": "Errore",
+      "description": "Devi inserire un username"
     },
     "generic": {
-      "title": "Error",
-      "description": "Something went wrong"
+      "title": "Errore",
+      "description": "Qualcosa è andato storto"
     },
     "email-sent": {
-      "title": "Email sent!",
-      "description": "Don't forget to check your spam folder!"
+      "title": "Email inviata!",
+      "description": "Ricordati di controllare la cartella spam!!"
     }
   },
   "@auth": {
     "common": {
       "login": "Accedi",
-      "create": "Creare Conto",
-      "submit": "Submit",
+      "create": "Registrati",
+      "submit": "Invia",
       "help": {
-        "title": "Need more help?",
-        "alert": "Get in contact! Tweet/message @NotifyTeam on Twitter or email support@notify.me"
+        "title": "Hai bisogno di aiuto?",
+        "alert": "Entra in contatto con il @NotifyTeam su Twitter o per email a support@notify.me"
       }
     },
     "landing": {
-      "welcome": "Benvenuti a Notify",
+      "welcome": "Benvenuti su Notify",
       "subText": "Accedi o registrati per iniziare..."
     },
     "login": {
-      "header": "Your credentials...",
-      "forgot": "Forgot Password"
+      "header": "Credenziali...",
+      "forgot": "Password dimenticata"
     },
     "register": {
-      "email": "What's your email?",
-      "terms": "By creating an account you have read and agree to our ",
-      "tos": "Terms of Service"
+      "email": "Qual è la tua email?",
+      "terms": "Creando un account confermi di aver letto e compreso i ",
+      "tos": "Termini e condizioni"
     },
     "channel-type": {
-      "header": "Which are you?",
-      "notice": "Will you be building a following on Notify or subscribing to other creators?"
+      "header": "Qual è il tuo profilo?",
+      "notice": "Desideri postare o seguire altri creatori?"
     },
     "username-set": {
-      "header": "Choose a username",
-      "notice": "Your username is how people will find and interact with you. It is also used as your custom URL."
+      "header": "Imposta username",
+      "notice": "Il tuo username è sia il tuo link che il modo che hanno gli altri per tovarti"
     },
     "more-details": {
-      "displayed": "This is displayed at the top of your channel",
-      "displayname": "Choose your display name",
-      "describe": "In one short line, describe what you create",
-      "located": "Where are you located?"
+      "displayed": "Questo è visibile in cima al tuo canale",
+      "displayname": "Seleziona il nome da mostrare",
+      "describe": "Descrivi cosa crei in poche e semplici parole",
+      "located": "Dove ti trovi?"
     },
     "two-factor": {
-      "title": "Two Factor",
-      "header": "Your Two Factor Code",
-      "info": "Use the authenticator app of your choice to get your six digit two step code."
+      "title": "Autenticazioni a due fattori",
+      "header": "Il tuo 2FA codice",
+      "info": "Usa un applicazione di autenticazione a tua scelta per ottenere il tuo codice a sei cifre."
     },
     "forgot-pass": {
-      "title": "Forgot Password",
-      "header": "Your email addresss",
-      "info": "Enter your email above and we'll send you a link to reset your password."
+      "title": "Password dimenticata",
+      "header": "La tua email",
+      "info": "Inserisci la tua email e ti verrà inviato un link per resettare la password"
     }
   }
 }
