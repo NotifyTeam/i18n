@@ -66,7 +66,7 @@
       "located": "Dove ti trovi?"
     },
     "two-factor": {
-      "title": "Autenticazioni a due fattori",
+      "title": "Due fattori",
       "header": "Il tuo 2FA codice",
       "info": "Usa un applicazione di autenticazione a tua scelta per ottenere il tuo codice a sei cifre."
     },
