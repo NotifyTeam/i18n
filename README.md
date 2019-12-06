@@ -6,13 +6,13 @@ i18n translation files for the Notify app, extension, and website.
 
 ### What my PR should have
  - [[Language Code](http://www.lingoes.net/en/translator/langcode.htm)].json
-    - *Exemple : pt.json*
+    - *Example : pt.json*
  - Description of what you've done
-    - *Exemple : Translated Settings Page*
+    - *Example : Translated Settings Page*
  - What language you're fixing/translating
-     - *Exemple : Portuguese*
+     - *Example : Portuguese*
      
-### Exemple
+### Example
 ```
 {
   ...
@@ -20,6 +20,7 @@ i18n translation files for the Notify app, extension, and website.
     "welcome": "Welcome to Notify",
     "subText": "Sign in or register to get started…"
   },
+  ...
 }
 ```
 ![Image](/image/exemple.png)
