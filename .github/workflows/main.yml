@@ -15,10 +15,3 @@ jobs:
       run: |
         echo Add other actions to build,
         echo test, and deploy your project.
-    - name: Validate JSON
-      uses: OrRosenblatt/validate-json-action@0.1.0
-      with:
-        # Relative file path under the repository of a JSON schema file to validate the other JSON files with.
-        schema: json/en.json
-        # One or more relative file paths under the repository (seperated by comma) of the JSON files to validate with the schema provided.
-        json: json
