@@ -1,0 +1,79 @@
+{
+  "@global": {
+    "next": "Neste",
+    "back": "Tilbake",
+    "close": "Lukk",
+    "creator": "Skaper",
+    "user": "Bruker"
+  },
+  "@alert": {
+    "email-regex": {
+      "title": "Dette ser ikke ut som en e-post!",
+      "description": "Sørg for at du har skrevet e-posten korrekt."
+    },
+    "no-password": {
+      "title": "Ingen passord",
+      "description": "Vennligst skriv ditt passord"
+    },
+    "no-username": {
+      "title": "Feil",
+      "description": "Du må skrive et brukernavn"
+    },
+    "generic": {
+      "title": "Feil",
+      "description": "Noe gikk galt"
+    },
+    "email-sent": {
+      "title": "E-post sendt!",
+      "description": "Ikke glem å sjekke søppelpost-mappen!"
+    }
+  },
+  "@auth": {
+    "common": {
+      "login": "Logg inn",
+      "create": "Opprett konto",
+      "submit": "Send",
+      "help": {
+        "title": "Trender du mer hjelp?",
+        "alert": "Kontakt oss! Tweet/send melding til @NotifyTeam på Twitter eller send e-post til support@notify.me"
+      }
+    },
+    "landing": {
+      "welcome": "Velkommen til Notify",
+      "subText": "Logg deg på eller registrer deg for å komme i gang…"
+    },
+    "login": {
+      "header": "Din legitimasjon...",
+      "forgot": "Glemt passord"
+    },
+    "register": {
+      "email": "Hva er din e-post?",
+      "terms": "Ved å opprette en konto har du lest og godtatt våre ",
+      "tos": "Vilkår for bruk"
+    },
+    "channel-type": {
+      "header": "Hvilken er du?",
+      "notice": "Vil du bygge en følgerbase på Notify, eller vil du abonnere på andre skapere?"
+    },
+    "username-set": {
+      "header": "Velg et brukernavn",
+      "notice": "Brukernavnet ditt er hvordan folk vil finne deg og interBrukernavnet ditt er hvordan folk vil finne og samhandle med deg. Det brukes også som din tilpassede URL."
+    },
+    "more-details": {
+      "displayed": "Dette blir vist på toppen av kanalen din",
+      "displayname": "Velg ditt visningsnavn",
+      "describe": "I én kort linje, beskriv hva du lager",
+      "located": "Hvor er du lokalisert?"
+    },
+    "two-factor": {
+      "title": "To-faktor",
+      "header": "Din to-faktor kode",
+      "info": "Bruk din foretrukne autentiseringsapp for å hente din sekssifrede to-faktor-kode."
+    },
+    "forgot-pass": {
+      "title": "Glemt passord",
+      "header": "Din e-post-adresse",
+      "info": "Skriv din e-post nedenfor og vi vil sende deg en link for å tilbakestille passordet ditt."
+    }
+  }
+}
