@@ -81,46 +81,46 @@
       "title": "Redefinir Senha",
       "header": "Seu endereço de email",
       "info": "Digite seu email e nós iremos enviar um link para redefinir sua senha"
+    }
+  },
+  "@settings": {
+    "title": "Settings",
+    "account": "Conta",
+    "privacy": "Privacidade",
+    "notif-prefs": "Preferencias de Notificação",
+    "devices": "Dispositivos",
+    "connections": {
+      "title": "Conexões",
+      "auto-posts": "Postagem automática",
+      "platform": "Plataforma",
+      "account-name": "Nome da conta",
+      "account-id": "ID da conta"
     },
-    "@settings": {
-      "title": "Settings",
-      "account": "Conta",
-      "privacy": "Privacidade",
-      "notif-prefs": "Preferencias de Notificação",
-      "devices": "Dispositivos",
-      "connections": {
-        "title": "Conexões",
-        "auto-posts": "Postagem automática",
-        "platform": "Plataforma",
-        "account-name": "Nome da conta",
-        "account-id": "ID da conta"
+    "edit-channel": "Editar canal",
+    "dark-mode": "Modo escuro"
+  },
+  "@discover": {
+    "title": "Explorar",
+    "new-in": "Novo em",
+    "top-subs": "Principais Inscritos",
+    "see-more": "Veja mais"
+  },
+  "@my-account": {
+    "activity": {
+      "title": "Atividades",
+      "video-call": "%{name} ligou para você por %{minutes} minutos. Clique para assistir",
+      "subscribed": "Você inscreveu-se a %{name}",
+      "logged": "Você acabou de entrar em %{location}"
+    },
+    "dashbord": {
+      "engage": "Engaje seu público",
+      "call": {
+        "title": "Ligue para um inscrito",
+        "info": "Engaje seus fãs pessoalmente"
       },
-      "edit-channel": "Editar canal",
-      "dark-mode": "Modo escuro"
-    },
-    "@discover": {
-      "title": "Explorar",
-      "new-in": "Novo em",
-      "top-subs": "Principais Inscritos",
-      "see-more": "Veja mais"
-    },
-    "@my-account": {
-      "activity": {
-        "title": "Atividades",
-        "video-call": "%{name} ligou para você por %{minutes} minutos. Clique para assistir",
-        "subscribed": "Você inscreveu-se a %{name}",
-        "logged": "Você acabou de entrar em %{location}"
-      },
-      "dashbord": {
-        "engage": "Engaje seu público",
-        "call": {
-          "title": "Ligue para um inscrito",
-          "info": "Engaje seus fãs pessoalmente"
-        },
-        "tips": {
-          "title": "Responda suas doações",
-          "info": "Agradeça seus apoiadores pelas moedas"
-        }
+      "tips": {
+        "title": "Responda suas doações",
+        "info": "Agradeça seus apoiadores pelas moedas"
       }
     }
   }
