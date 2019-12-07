@@ -117,7 +117,7 @@
     "activity": {
       "title": "Atividades",
       "video-call": "%{name} ligou para você por %{minutes} minutos. Clique para assistir",
-      "subscribed": "Você inscreveu-se a %{name}",
+      "subscribed": "Você inscreveu-se a(o) %{name}",
       "logged": "Você acabou de entrar em %{location}"
     },
     "dashbord": {
