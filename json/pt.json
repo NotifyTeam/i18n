@@ -85,10 +85,18 @@
   },
   "@settings": {
     "title": "Configurações",
-    "account": "Conta",
-    "privacy": "Privacidade",
-    "notif-prefs": "Preferências de Notificação",
-    "devices": "Dispositivos",
+    "account": {
+      "title": "Conta"
+    },
+    "privacy": {
+      "title": "Privacidade"
+    },
+    "notif-prefs": {
+      "title": "Preferências de Notificação"
+    },
+    "devices": {
+      "title": "Dispositivos"
+    },
     "connections": {
       "title": "Conexões",
       "auto-posts": "Postagem automática",
