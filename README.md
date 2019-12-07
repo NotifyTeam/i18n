@@ -11,7 +11,7 @@ i18n translation files for the Notify app, extension, and website.
     - *Example : Translated Settings Page*
  - What language you're fixing/translating
      - *Example : Portuguese*
-     
+
 ### Example
 ```
 {
@@ -23,4 +23,16 @@ i18n translation files for the Notify app, extension, and website.
   ...
 }
 ```
-![Image](/image/exemple.png)
+![Image](./image/example.png)
+### Already Translated
+- Norwegian
+- Italian
+- Portuguese
+
+### Left to translate
+- Spanish
+- Dutch
+- English(Pirate)🏴‍☠️
+- Whatever your heart desires ❤
+
+
