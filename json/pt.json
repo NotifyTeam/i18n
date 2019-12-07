@@ -10,7 +10,7 @@
     "notified": "Notificado",
     "favorites": "Favoritos",
     "muted": "Silenciados",
-    "unsubbed": "Não inscritos",
+    "previous": "Desinscritos",
     "per-week": "Por semana"
   },
   "@alert": {
