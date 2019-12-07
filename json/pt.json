@@ -4,7 +4,14 @@
     "back": "Voltar",
     "close": "Fechar",
     "creator": "Criador",
-    "user": "Usuário"
+    "user": "Usuário",
+    "subscribers": "Inscritos",
+    "subscribed": "Inscrito",
+    "notified": "Notificado",
+    "favorites": "Favoritos",
+    "muted": "Silenciados",
+    "unsubbed": "Não inscritos",
+    "per-week": "Por semana"
   },
   "@alert": {
     "email-regex": {
@@ -24,8 +31,8 @@
       "description": "Algo deu errado"
     },
     "email-sent": {
-      "title": "Email sent!",
-      "description": "Don't forget to check your spam folder!"
+      "title": "Email enviado!",
+      "description": "Verifique sua lixeira também!"
     }
   },
   "@auth": {
@@ -73,8 +80,47 @@
     "forgot-pass": {
       "title": "Redefinir Senha",
       "header": "Seu endereço de email",
-      "email": "Endereço de email",
       "info": "Digite seu email e nós iremos enviar um link para redefinir sua senha"
+    },
+    "@settings": {
+      "account": "Conta",
+      "privacy": "Privacidade",
+      "notif-prefs": "Preferencias de Notificação",
+      "devices": "Dispositivos",
+      "connections": {
+        "title": "Conexões",
+        "auto-posts": "Postagem automática",
+        "platform": "Plataforma",
+        "account-name": "Nome da conta",
+        "account-id": "ID da conta"
+      },
+      "edit-channel": "Editar canal",
+      "dark-mode": "Modo escuro"
+    },
+    "@discover":{
+      "title": "Explorar",
+      "new-in": "Novo em",
+      "top-subs": "Principais Inscritos",
+      "see-more": "Veja mais"
+    },
+    "@my-account": {
+      "activity": {
+        "title":"Atividades",
+        "video-call": "%{name} ligou para você por %{minutes} minutos. Clique para assistir",
+        "subscribed": "Você inscreveu-se a %{name}",
+        "logged": "Você acabou de entrar em %{location}"
+      },
+      "dashbord": {
+        "engage": "Engaje seu público",
+        "call": {
+          "title": "Ligue para um inscrito",
+          "info": "Engaje seus fãs pessoalmente"
+        },
+        "tips": {
+          "title": "Responda suas doações",
+          "info": "Agradeça seus apoiadores pelas moedas"
+        }
+      }
     }
   }
 }

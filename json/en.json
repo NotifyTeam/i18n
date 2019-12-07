@@ -4,7 +4,14 @@
     "back": "Back",
     "close": "Close",
     "creator": "Creator",
-    "user": "User"
+    "user": "User",
+    "subscribers": "Subscribers",
+    "subscribed": "Subscribed",
+    "notified": "notified",
+    "favorites": "favorites",
+    "muted": "Muted",
+    "unsubbed": "unsubbed",
+    "per-week": "Per week"
   },
   "@alert": {
     "email-regex": {
@@ -74,6 +81,46 @@
       "title": "Forgot Password",
       "header": "Your email addresss",
       "info": "Enter your email above and we'll send you a link to reset your password."
+    },
+    "@settings": {
+      "account": "Account",
+      "privacy": "Privacy",
+      "notif-prefs": "Notification Preferences",
+      "devices": "Devices",
+      "connections": {
+        "title": "Connections",
+        "auto-posts": "Automatic Posts",
+        "platform": "Platform",
+        "account-name": "Account Name",
+        "account-id": "Account ID"
+      },
+      "edit-channel": "Edit channel",
+      "dark-mode": "Dark mode"
+    },
+    "@discover":{
+      "title": "Discover",
+      "new-in": "New in",
+      "top-subs": "Top Subscribed",
+      "see-more": "See more"
+    },
+    "@my-account": {
+      "activity": {
+        "title":"Activity",
+        "video-call": "%{name} video called you for %{minutes} minutes. Click to watch recording",
+        "subscribed": "You subscribed to %{name}",
+        "logged": "You logged in from a new location in to %{location}"
+      },
+      "dashbord": {
+        "engage": "Engage your audience",
+        "call": {
+          "title": "Call a subscriber",
+          "info": "Engage with your fanbase personally"
+        },
+        "tips": {
+          "title": "Respond to tips",
+          "info": "Thank your supporters for spending coins"
+        }
+      }
     }
   }
 }
