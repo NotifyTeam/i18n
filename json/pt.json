@@ -84,7 +84,7 @@
     }
   },
   "@settings": {
-    "title": "Settings",
+    "title": "Configurações",
     "account": "Conta",
     "privacy": "Privacidade",
     "notif-prefs": "Preferencias de Notificação",
