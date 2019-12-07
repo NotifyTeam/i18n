@@ -83,6 +83,7 @@
       "info": "Enter your email above and we'll send you a link to reset your password."
     },
     "@settings": {
+      "title": "Settings",
       "account": "Account",
       "privacy": "Privacy",
       "notif-prefs": "Notification Preferences",
@@ -97,7 +98,7 @@
       "edit-channel": "Edit channel",
       "dark-mode": "Dark mode"
     },
-    "@discover":{
+    "@discover": {
       "title": "Discover",
       "new-in": "New in",
       "top-subs": "Top Subscribed",
@@ -105,7 +106,7 @@
     },
     "@my-account": {
       "activity": {
-        "title":"Activity",
+        "title": "Activity",
         "video-call": "%{name} video called you for %{minutes} minutes. Click to watch recording",
         "subscribed": "You subscribed to %{name}",
         "logged": "You logged in from a new location in to %{location}"

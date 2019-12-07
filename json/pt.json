@@ -83,6 +83,7 @@
       "info": "Digite seu email e nós iremos enviar um link para redefinir sua senha"
     },
     "@settings": {
+      "title": "Settings",
       "account": "Conta",
       "privacy": "Privacidade",
       "notif-prefs": "Preferencias de Notificação",
@@ -97,7 +98,7 @@
       "edit-channel": "Editar canal",
       "dark-mode": "Modo escuro"
     },
-    "@discover":{
+    "@discover": {
       "title": "Explorar",
       "new-in": "Novo em",
       "top-subs": "Principais Inscritos",
@@ -105,7 +106,7 @@
     },
     "@my-account": {
       "activity": {
-        "title":"Atividades",
+        "title": "Atividades",
         "video-call": "%{name} ligou para você por %{minutes} minutos. Clique para assistir",
         "subscribed": "Você inscreveu-se a %{name}",
         "logged": "Você acabou de entrar em %{location}"
