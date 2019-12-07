@@ -4,7 +4,14 @@
     "back": "Tilbake",
     "close": "Lukk",
     "creator": "Skaper",
-    "user": "Bruker"
+    "user": "Bruker",
+    "subscribers": "Abonnenter",
+    "subscribed": "Abonnert",
+    "notified": "varslet",
+    "favorites": "favoritter",
+    "muted": "Dempet",
+    "unsubbed": "avabonnert",
+    "per-week": "Per uke"
   },
   "@alert": {
     "email-regex": {
@@ -74,6 +81,55 @@
       "title": "Glemt passord",
       "header": "Din e-post-adresse",
       "info": "Skriv din e-post nedenfor og vi vil sende deg en link for å tilbakestille passordet ditt."
+    }
+  },
+  "@settings": {
+    "title": "Innstillinger",
+    "account": {
+      "title": "Konto"
+    },
+    "privacy": {
+      "title": "Personvern"
+    },
+    "notif-prefs": {
+      "title": "Varlingspreferanser"
+    },
+    "devices": {
+      "title": "Enheter"
+    },
+    "connections": {
+      "title": "Tilkoblinger",
+      "auto-posts": "Automatiske innlegg",
+      "platform": "Platform",
+      "account-name": "Konto-navn",
+      "account-id": "Konto-ID"
+    },
+    "edit-channel": "Endre kanal",
+    "dark-mode": "Mørk modus"
+  },
+  "@discover": {
+    "title": "Oppdag",
+    "new-in": "Nye i",
+    "top-subs": "Topp abonnert",
+    "see-more": "Se mer"
+  },
+  "@my-account": {
+    "activity": {
+      "title": "Aktivitet",
+      "video-call": "%{name} videoringte deg i %{minutes} minutter. Trykk for å se opptak",
+      "subscribed": "Du abonnerte til %{name}",
+      "logged": "Du logget inn fra en ny plassering i %{location}"
+    },
+    "dashbord": {
+      "engage": "Engasjer publikum",
+      "call": {
+        "title": "Ring en abonnent",
+        "info": "Ta kontakt med fanbasen din personlig"
+      },
+      "tips": {
+        "title": "Svar på tips",
+        "info": "Takk dine supportere for at de har brukt mynter"
+      }
     }
   }
 }
