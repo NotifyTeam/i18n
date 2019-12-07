@@ -12,7 +12,7 @@
 <!--- If this fixes an open issue, please provide a link to the issue here. -->
 
 ## How Has This Been Tested?
-- [ ] Ran test Suite
+- [ ] Test Suite Passes
 <!--- Please describe in detail how you tested your changes. -->
 <!--- Include information about your testing environment, and the tests you ran to -->
-<!--- see how your change might have affects other areas of the code, etc. -->sdasdasd
+<!--- see how your change might have affects other areas of the code, etc. -->
