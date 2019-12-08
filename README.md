@@ -24,15 +24,22 @@ i18n translation files for the Notify app, extension, and website.
 }
 ```
 ![Image](./image/example.png)
+
 ### Already Translated
 - Norwegian
 - Italian
 - Portuguese
+- Spanish
+- English(Pirate)
+- Swedish
 
 ### Left to translate
-- Spanish
 - Dutch
-- English(Pirate)🏴‍☠️
+- German
+- French
+- Russian
+- Chinese
+- Japanese
 - Whatever your heart desires ❤
 
 
