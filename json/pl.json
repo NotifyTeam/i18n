@@ -1,0 +1,135 @@
+{
+  "@global": {
+    "next": "Dalej",
+    "back": "Wstecz",
+    "close": "Zamknij",
+    "creator": "Twórca",
+    "user": "Użytkownik",
+    "subscribers": "Subskrybenci",
+    "subscribed": "Zasubskrybowany",
+    "notified": "powiadomieni",
+    "favorites": "ulubieni",
+    "muted": "Wyciszeni",
+    "previous": "odsubskrybowani",
+    "per-week": "Tygodniowo"
+  },
+  "@alert": {
+    "email-regex": {
+      "title": "To nie wygląda jak email!",
+      "description": "Upewnij się, że poprawnie wpisałeś swój adres email."
+    },
+    "no-password": {
+      "title": "Brak hasła",
+      "description": "Musisz wpisać hasło"
+    },
+    "no-username": {
+      "title": "Błąd",
+      "description": "Musisz wpisać nazwę użytkownika"
+    },
+    "generic": {
+      "title": "Błąd",
+      "description": "Coś poszło nie tak"
+    },
+    "email-sent": {
+      "title": "Email wysłany!",
+      "description": "Nie zapomnij sprawdzić folderu ze spamem!"
+    }
+  },
+  "@auth": {
+    "common": {
+      "login": "Zaloguj się",
+      "create": "Załóż Konto",
+      "submit": "Zatwierdź",
+      "help": {
+        "title": "Potrzebujesz pomocy?",
+        "alert": "Skontaktuj się z nami! Wyślij Tweeta/wiadomość @NotifyTeam na Twitterze lub email support@notify.me"
+      }
+    },
+    "landing": {
+      "welcome": "Witaj w Notify",
+      "subText": "Zaloguj się lub zarejetruj aby zacząć…"
+    },
+    "login": {
+      "header": "Twoje dane...",
+      "forgot": "Przypomnij Hasło"
+    },
+    "register": {
+      "email": "Jaki jest Twój adres email?",
+      "terms": "Tworząc konto potwierdzasz że, przeczytałeś i akceptujesz nasze ",
+      "tos": "Warunki świadczenia usług"
+    },
+    "channel-type": {
+      "header": "Kim jesteś?",
+      "notice": "Będziesz tworzyć społeczność, czy subskrybować innych twórców w Notify?"
+    },
+    "username-set": {
+      "header": "Wybierz nazwę użytkownika",
+      "notice": "Twoja nazwa użytkownika to sposób w jaki inni ludzie będa mogli wejść w interakcję z Tobą. Jest również używana jako niestandardowy adres URL."
+    },
+    "more-details": {
+      "displayed": "To jest wyświetlane na górze Twojego kanału",
+      "displayname": "Wybierz nazwę wyświetlaną",
+      "describe": "W jednym krótkim zdaniu, opisz co tworzysz",
+      "located": "Skąd pochodzisz?"
+    },
+    "two-factor": {
+      "title": "Weryfikacja Dwuetapowa",
+      "header": "Twój kod weryfikacji dwuetapowej",
+      "info": "Skorzystaj z wybranej aplikacji uwierzytelniającej, aby uzyskać sześciocyfrowy kod."
+    },
+    "forgot-pass": {
+      "title": "Przypominanie Hasła",
+      "header": "Twój adres email",
+      "info": "Wpisz swój adres e-mail powyżej, a my wyślemy Ci link do zresetowania hasła."
+    }
+  },
+  "@settings": {
+    "title": "Ustawienia",
+    "account": {
+      "title": "Konto"
+    },
+    "privacy": {
+      "title": "Prywatność"
+    },
+    "notif-prefs": {
+      "title": "Preferencje Powiadomień"
+    },
+    "devices": {
+      "title": "Urządzenia"
+    },
+    "connections": {
+      "title": "Połączone Konta",
+      "auto-posts": "Automatyczne Posty",
+      "platform": "Platforma",
+      "account-name": "Nazwa Konta",
+      "account-id": "ID Konta"
+    },
+    "edit-channel": "Edytuj kanał",
+    "dark-mode": "Ciemny motyw"
+  },
+  "@discover": {
+    "title": "Odkryj",
+    "new-in": "Nowy w",
+    "top-subs": "Najczęściej Subskrybowani",
+    "see-more": "Zobacz więcej"
+  },
+  "@my-account": {
+    "activity": {
+      "title": "Aktywność",
+      "video-call": "%{name} nagrał wiadomość wideo dla Ciebie o długości %{minutes} minut. Kliknij aby odtworzyć wiadomość",
+      "subscribed": "Zasubskrybowałeś %{name}",
+      "logged": "Zalogowałeś się z nowej lokalizacji, %{location}"
+    },
+    "dashbord": {
+      "engage": "Zaangażuj Twoich odbiorców",
+      "call": {
+        "title": "Zadzwoń do subskrybenta",
+        "info": "Skontaktuj się z subskrybentami osobiście"
+      },
+      "tips": {
+        "title": "Odpowiedz na napiwki",
+        "info": "Podziękuj swoim wspierającym za napiwki"
+      }
+    }
+  }
+}
