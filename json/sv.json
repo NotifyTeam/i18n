@@ -1,0 +1,135 @@
+{
+  "@global": {
+    "next": "Nästa",
+    "back": "Tillbaka",
+    "close": "Stäng",
+    "creator": "Skapare",
+    "user": "Användare",
+    "subscribers": "Prenumeranter",
+    "subscribed": "Prenumererar",
+    "notified": "Notiferad",
+    "favorites": "Favoriter",
+    "muted": "Tystad",
+    "previous": "Avprenumererade",
+    "per-week": "Per vecka"
+  },
+  "@alert": {
+    "email-regex": {
+      "title": "Det där ser inte ut som en e-post!",
+      "description": "Vänligen kontrollera att du fyllt i rätt e-post."
+    },
+    "no-password": {
+      "title": "Inget lösenord",
+      "description": "Vänligen ange lösenord"
+    },
+    "no-username": {
+      "title": "Fel",
+      "description": "Du måste ange ett avändarnamn"
+    },
+    "generic": {
+      "title": "Fel",
+      "description": "Något gick fel"
+    },
+    "email-sent": {
+      "title": "Epost skickat!",
+      "description": "Glöm inte titta i skräpposten!"
+    }
+  },
+  "@auth": {
+    "common": {
+      "login": "Logga in",
+      "create": "Skapa konto",
+      "submit": "Skicka",
+      "help": {
+        "title": "Behöver du mer hjälp?",
+        "alert": "Kom i kontakt med oss! Tweeta/skicka ett meddelande till @NotifyTeam på twitter eller maila support@notify.me"
+      }
+    },
+    "landing": {
+      "welcome": "Välkommen till Notify",
+      "subText": "Logga in eller skapa ett konto för att börja..."
+    },
+    "login": {
+      "header": "Dina användaruppgifter..",
+      "forgot": "Glömt Lösenord"
+    },
+    "register": {
+      "email": "Vad är din e-post?",
+      "terms": "Genom att skapa ett konto har du läst och godkänt våra ",
+      "tos": "Användarvillkor"
+    },
+    "channel-type": {
+      "header": "Vem är du?",
+      "notice": "Kommer du bygga enn följarskara på Notify eller prenumerera på andra skapare?"
+    },
+    "username-set": {
+      "header": "Välj ett användarnamn",
+      "notice": "Ditt användarnamn är hur andra kommer att hitta och interagera med dig. Det används också som din personliga URL."
+    },
+    "more-details": {
+      "displayed": "Det här visas högst upp på din kanal",
+      "displayname": "Välj ditt visningnsamn",
+      "describe": "På en kort menings, beskriv vad du skapar",
+      "located": "Var finns du?"
+    },
+    "two-factor": {
+      "title": "Tvåfaktorsautentisering",
+      "header": "Din Tvåfaktorsautentiseringskod",
+      "info": "Använd din autentiseringsapp för att få din sexsiffriga kod."
+    },
+    "forgot-pass": {
+      "title": "Glömt Lösenord",
+      "header": "Din e-postadress",
+      "info": "Ange din e-postadress ovan så skickar vi en länk för dig att återställa lösenordet."
+    }
+  },
+  "@settings": {
+    "title": "Inställningar",
+    "account": {
+      "title": "Konto"
+    },
+    "privacy": {
+      "title": "Integritet"
+    },
+    "notif-prefs": {
+      "title": "Notifikationsinställningar"
+    },
+    "devices": {
+      "title": "Enheter"
+    },
+    "connections": {
+      "title": "Kopplingar",
+      "auto-posts": "Automatiska inlägg",
+      "platform": "Plattform",
+      "account-name": "Kontonamn",
+      "account-id": "Konto-id"
+    },
+    "edit-channel": "Ändra kanal",
+    "dark-mode": "Mörkt läge"
+  },
+  "@discover": {
+    "title": "Utforska",
+    "new-in": "Senaste",
+    "top-subs": "Flest prenumeranter",
+    "see-more": "Se mer"
+  },
+  "@my-account": {
+    "activity": {
+      "title": "Aktivitet",
+      "video-call": "%{name} hade ett videosamtal med dig i %{minutes} minuter. Klicka för att se en inspelning",
+      "subscribed": "Du har prenumererat på %{name}",
+      "logged": "Du loggade in från en ny position i %{location}"
+    },
+    "dashbord": {
+      "engage": "Engagera med din publik",
+      "call": {
+        "title": "Ring en prenumerant",
+        "info": "Engagera med din fanbas personligen"
+      },
+      "tips": {
+        "title": "Svara på dricks",
+        "info": "Tacka dina följare för att de spenderar mynt"
+      }
+    }
+  }
+}
