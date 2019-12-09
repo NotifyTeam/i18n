@@ -4,7 +4,14 @@
     "back": "Indietro",
     "close": "Chiudi",
     "creator": "Creatore",
-    "user": "Utente"
+    "user": "Utente",
+    "subscribers": "Iscritti",
+    "subscribed": "Iscritto",
+    "notified": "notifica",
+    "favorites": "favoriti",
+    "muted": "Mutato",
+    "previous": "Non iscritto",
+    "per-week": "Settimanalmente"
   },
   "@alert": {
     "email-regex": {
@@ -39,7 +46,7 @@
       }
     },
     "landing": {
-      "welcome": "Benvenuti su Notify",
+      "welcome": "Benvenuto su Notify",
       "subText": "Accedi o registrati per iniziare..."
     },
     "login": {
@@ -74,6 +81,55 @@
       "title": "Password dimenticata",
       "header": "La tua email",
       "info": "Inserisci la tua email e ti verrà inviato un link per resettare la password"
+    }
+  },
+  "@settings": {
+    "title": "Impostazioni",
+    "account": {
+      "title": "Profilo"
+    },
+    "privacy": {
+      "title": "Privacy"
+    },
+    "notif-prefs": {
+      "title": "Impostazioni delle notifiche"
+    },
+    "devices": {
+      "title": "Dispositivi"
+    },
+    "connections": {
+      "title": "Connessioni",
+      "auto-posts": "Post automatici",
+      "platform": "Piattaforma",
+      "account-name": "Nome Account",
+      "account-id": "ID Account"
+    },
+    "edit-channel": "Modifica canale",
+    "dark-mode": "Modalità scura"
+  },
+  "@discover": {
+    "title": "Scopri",
+    "new-in": "Nuovi",
+    "top-subs": "Top Iscritti",
+    "see-more": "Altro"
+  },
+  "@my-account": {
+    "activity": {
+      "title": "Attività",
+      "video-call": "%{name} ti ha videochiamato (Durata: %{minutes} minuti). Clicca per guardarla",
+      "subscribed": "Ti sei iscritto a %{name}",
+      "logged": "Login effettuato da una nuova posizione: %{location}"
+    },
+    "dashbord": {
+      "engage": "Coinvolgi il tuo pubblico",
+      "call": {
+        "title": "Chiama un iscritto",
+        "info": "Coinvolgi personalmente i tuoi fan"
+      },
+      "tips": {
+        "title": "Rispondi ai suggerimenti",
+        "info": "Grazie per il supporto con i vostri coins"
+      }
     }
   }
 }
