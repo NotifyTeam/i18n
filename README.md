@@ -32,11 +32,12 @@ i18n translation files for the Notify app, extension, and website.
 - Spanish
 - English(Pirate)
 - Swedish
+- Polish
+- French
 
 ### Left to translate
 - Dutch
 - German
-- French
 - Russian
 - Chinese
 - Japanese
