@@ -79,7 +79,7 @@
     },
     "forgot-pass": {
       "title": "Forgot Password",
-      "header": "Your email addresss",
+      "header": "Your email address",
       "info": "Enter your email above and we'll send you a link to reset your password."
     }
   },
