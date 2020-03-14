@@ -75,7 +75,7 @@
     "two-factor": {
       "title": "Zwei-Faktor",
       "header": "Dein Zwei-Faktor Code",
-      "info": "Verwende  die Authentifikator-App ihrer Wahl, um deinen sechstelligen Zwei-Faktor Code zu erhalten."
+      "info": "Verwende die Authentifikator-App ihrer Wahl, um deinen sechsstelligen Zwei-Faktor Code zu erhalten."
     },
     "forgot-pass": {
       "title": "Passwort vergessen?",
