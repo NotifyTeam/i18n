@@ -16,15 +16,15 @@
   "@alert": {
     "email-regex": {
       "title": "Das sieht nicht nach einer Email aus!",
-      "description": "Bitte überprüfen sie ihre Email eingabe."
+      "description": "Bitte überprüfe, ob du deine Email korrekt eingegeben hast."
     },
     "no-password": {
       "title": "Kein Passwort",
-      "description": "Bitte geben sie ihr Passwort ein."
+      "description": "Bitte geib dein Passwort ein."
     },
     "no-username": {
       "title": "Error",
-      "description": "Sie müssen einen Benutzernamen eingeben."
+      "description": "Du musst ein Nutzernamen angeben."
     },
     "generic": {
       "title": "Error",
@@ -32,7 +32,7 @@
     },
     "email-sent": {
       "title": "Email gesendet!",
-      "description": "Bitte überprüfen sie ihren Spam-Ordner !"
+      "description": "Bitte überprüfe deinen Spam-Ordner!"
     }
   },
   "@auth": {
@@ -41,46 +41,46 @@
       "create": "Account erstellen",
       "submit": "Übermitteln",
       "help": {
-        "title": "Benötigen sie weitere Hilfe ?",
-        "alert": "Kontaktiere sie uns ! Tweet/Nachricht @NotifyTeam auf Twitter oder per email support@notify.me" /* Reworking this ! */
+        "title": "Benötigst du weitere Hilfe?",
+        "alert": "Kontaktier uns! Tweet/Nachricht @NotifyTeam auf Twitter oder per Email support@notify.me" /* Reworking this ! */
       }
     },
     "landing": {
-      "welcome": "Wilkommen bei Notify",
-      "subText": "Anmelden, oder Registrieren um loszulegen"
+      "welcome": "Willkommen bei Notify",
+      "subText": "Melde dich an oder registriere dich um loszulegen"
     },
     "login": {
       "header": "Deine Anmeldeinformationen...",
       "forgot": "Passwort vergessen ?"
     },
     "register": {
-      "email": "Wie lautet deine Email ?",
-      "terms": "Beim Anlegen eines Accounts musst du unsere [Nutzungsbedingungen] lesen und Akzeptieren",
-      "tos": "Terms of Service"
+      "email": "Wie lautet deine Email?",
+      "terms": "Beim Anlegen eines Accounts stimmt du zu, dass du die [Nutzungsbedingungen] gelesen und akzeptiert hast.",
+      "tos": "Nutzungsbedingungen"
     },
     "channel-type": {
-      "header": "Was ist dein Profil ?",
-      "notice": "Möchtest du dir eine Gemeindschaft aufbauen, oder anderen Entwicklern folgen ?"
+      "header": "Was möchtest du tun?",
+      "notice": "Möchtest du dir eine Community aufbauen oder anderen Erstellern folgen ?"
     },
     "username-set": {
-      "header": "Wähle einen Benutzernamen",
+      "header": "Wähle einen Nutzernamen",
       "notice": "Anhand deines Benutzernamens, finden und interagieren Leute mit dir. Er wird auch für deine benutzerdefinierte URL verwendet."
     },
     "more-details": {
       "displayed": "Das wird oben in deinem Kanal angezeigt",
       "displayname": "Wähle deinen Anzeigenamen",
       "describe": "Beschreibe kurz was du erstellst",
-      "located": "Wo wohnen sie ?"
+      "located": "Wo wohnst du?"
     },
     "two-factor": {
-      "title": "Zwei Faktor",
-      "header": "Dein Zwei Faktor Code",
-      "info": "Verwenden sie die Authentifikator-App ihrer Wahl, um ihren sechstelligen zweistufigen Code zu erhalten."
+      "title": "Zwei-Faktor",
+      "header": "Dein Zwei-Faktor Code",
+      "info": "Verwende  die Authentifikator-App ihrer Wahl, um deinen sechstelligen Zwei-Faktor Code zu erhalten."
     },
     "forgot-pass": {
-      "title": "Passwort vergessen ?",
-      "header": "Ihre Email Adresse",
-      "info": "Geben sie oben ihre Email Adresse ein damit wir ihnen einen Link zum zurücksetzen senden können."
+      "title": "Passwort vergessen?",
+      "header": "Deine Email Adresse",
+      "info": "Gib deine Email Adresse ein, damit wir dir einen Link zum Zurücksetzen deines Passwortes zusenden können."
     }
   },
   "@settings": {
@@ -105,30 +105,30 @@
       "account-id": "Account ID"
     },
     "edit-channel": "Kanal bearbeiten",
-    "dark-mode": "Dark mode"
+    "dark-mode": "Dunkel-Modus"
   },
   "@discover": {
     "title": "Entdecken",
     "new-in": "Neu in",
-    "top-subs": "Top Abonniert",
+    "top-subs": "meist Abbonierte",
     "see-more": "Mehr sehen"
   },
   "@my-account": {
     "activity": {
       "title": "Aktivität",
-      "video-call": "%{name} hat einen Videoanruf für %{minutes}m angerufen. Klicken sie hierm um die aufnahme anzusehen.",
-      "subscribed": "Sie haben %{name} abonniert.",
-      "logged": "Sie haben sich von einem neuen Standort angemeldet: %{location}"
+      "video-call": "%{name} hat in einen Videoanruf für %{minutes} Minuten mit dir telefoniert. Klicke hier um die Aufnahme anzusehen.",
+      "subscribed": "Du hast %{name} abonniert.",
+      "logged": "Du hast dich von einem neuen Standort angemeldet: %{location}"
     },
     "dashbord": {
       "engage": "Fessle dein Publikum",
       "call": {
         "title": "Teilnehmer anrufen",
-        "info": "Setzen sie sich mit ihrem persönlichen Publikum in Verbindung"
+        "info": "Setze dich persönlich mit deinem Publikum in Verbindung"
       },
       "tips": {
-        "title": "Antworten sie auf Spenden",
-        "info": "Danke an die Unterstützer für das Spenden von Münzen"
+        "title": "Antworte auf Spenden",
+        "info": "Danke deinen Unterstützern für das Spenden von Münzen"
       }
     }
   }
