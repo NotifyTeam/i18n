@@ -54,64 +54,64 @@
       "forgot": "கடவுச்சொல்லை மறந்துவிட்டீர்களா"
     },
     "register": {
-      "email": "What's your email?",
-      "terms": "By creating an account you have read and agree to our ",
-      "tos": "Terms of Service"
+      "email": "உங்கள் மின்னஞ்சல்?",
+      "terms": "ஒரு கணக்கை உருவாக்குவதன் மூலம் நீங்கள் ஒப்புக்கொண்டீர்கள் ",
+      "tos": "சேவை விதிமுறைகள்"
     },
     "channel-type": {
-      "header": "Which are you?",
+      "header": "நீங்கள் யார்?",
       "notice": "Will you be building a following on Notify or subscribing to other creators?"
     },
     "username-set": {
-      "header": "Choose a username",
-      "notice": "Your username is how people will find and interact with you. It is also used as your custom URL."
+      "header": "உபயோகிப்பாளர் பெயரை தேர்ந்தெடு",
+      "notice": "உங்கள் பயனர்பெயர் மக்கள் உங்களை எவ்வாறு கண்டுபிடித்து தொடர்புகொள்வார்கள் என்பதுதான். இது உங்கள் தனிப்பயன் URL ஆகவும் பயன்படுத்தப்படுகிறது."
     },
     "more-details": {
-      "displayed": "This is displayed at the top of your channel",
-      "displayname": "Choose your display name",
-      "describe": "In one short line, describe what you create",
-      "located": "Where are you located?"
+      "displayed": "இது உங்கள் சேனலின் மேலே காட்டப்படும்",
+      "displayname": "உங்கள் காட்சி பெயரைத் தேர்வுசெய்க",
+      "describe": "ஒரு குறுகிய வரியில், நீங்கள் உருவாக்குவதை விவரிக்கவும்",
+      "located": "நீ எங்கு வசிக்கிறாய்?"
     },
     "two-factor": {
-      "title": "Two Factor",
-      "header": "Your Two Factor Code",
-      "info": "Use the authenticator app of your choice to get your six digit two step code."
+      "title": "இரண்டு காரணி",
+      "header": "உங்கள் இரண்டு காரணி குறியீடு",
+      "info": "உங்கள் ஆறு இலக்க காரணி குறியீட்டைப் பெற உங்களுக்கு விருப்பமான அங்கீகார பயன்பாட்டைப் பயன்படுத்தவும்."
     },
     "forgot-pass": {
-      "title": "Forgot Password",
-      "header": "Your email address",
-      "info": "Enter your email above and we'll send you a link to reset your password."
+      "title": "கடவுச்சொல்லை மறந்துவிட்டீர்களா",
+      "header": "உங்கள் மின்னஞ்சல் முகவரி",
+      "info": "மேலே உங்கள் மின்னஞ்சலை உள்ளிடவும், உங்கள் கடவுச்சொல்லை மீட்டமைக்க ஒரு இணைப்பை நாங்கள் உங்களுக்கு அனுப்புவோம்."
     }
   },
   "@settings": {
-    "title": "Settings",
+    "title": "அமைப்புகள்",
     "account": {
-      "title": "Account"
+      "title": "கணக்கு"
     },
     "privacy": {
-      "title": "Privacy"
+      "title": "தனியுரிமை"
     },
     "notif-prefs": {
-      "title": "Notification Preferences"
+      "title": "அறிவிப்பு விருப்பத்தேர்வுகள்"
     },
     "devices": {
-      "title": "Devices"
+      "title": "சாதனங்கள்"
     },
     "connections": {
-      "title": "Connections",
-      "auto-posts": "Automatic Posts",
-      "platform": "Platform",
-      "account-name": "Account Name",
-      "account-id": "Account ID"
+      "title": "இணைப்புகள்",
+      "auto-posts": "தானியங்கி இடுகைகள்",
+      "platform": "நடைமேடை",
+      "account-name": "கணக்கின் பெயர்",
+      "account-id": "கணக்கு ஐடி"
     },
-    "edit-channel": "Edit channel",
-    "dark-mode": "Dark mode"
+    "edit-channel": "சேனலைத் திருத்து",
+    "dark-mode": "இருண்ட பயன்முறை"
   },
   "@discover": {
-    "title": "Discover",
-    "new-in": "New in",
-    "top-subs": "Top Subscribed",
-    "see-more": "See more"
+    "title": "கண்டுபிடி",
+    "new-in": "புதுமையாக",
+    "top-subs": "சிறந்த சந்தா",
+    "see-more": "மேலும் பார்க்க"
   },
   "@my-account": {
     "activity": {
