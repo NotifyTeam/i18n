@@ -115,20 +115,20 @@
   },
   "@my-account": {
     "activity": {
-      "title": "Activity",
-      "video-call": "%{name} video called you for %{minutes} minutes. Click to watch recording",
-      "subscribed": "You subscribed to %{name}",
-      "logged": "You logged in from a new location in to %{location}"
+      "title": "செயல்பாடு",
+      "video-call": "%{name} வீடியோ உங்களை %{minutes} நிமிடங்களுக்கு அழைத்தது. பதிவு பார்க்க கிளிக் செய்க",
+      "subscribed": "நீங்கள் %{name} குழுசேர்ந்துள்ளீர்கள்",
+      "logged": "%{location}ல் புதிய இடத்திலிருந்து உள்நுழைந்துள்ளீர்கள்"
     },
     "dashbord": {
-      "engage": "Engage your audience",
+      "engage": "உங்கள் பார்வையாளர்களை ஈடுபடுத்துங்கள்",
       "call": {
-        "title": "Call a subscriber",
-        "info": "Engage with your fanbase personally"
+        "title": "சந்தாதாரரை அழைக்கவும்",
+        "info": "தனிப்பட்ட முறையில் உங்கள் ரசிகர் பட்டாளத்தை ஊக்கவிக்கலாம்"
       },
       "tips": {
-        "title": "Respond to tips",
-        "info": "Thank your supporters for spending coins"
+        "title": "உதவிக்குறிப்புகளுக்கு பதிலளிக்கவும்",
+        "info": "நாணயங்களை செலவழித்த உங்கள் ஆதரவாளர்களுக்கு நன்றி"
       }
     }
   }
