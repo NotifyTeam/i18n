@@ -1,0 +1,135 @@
+{
+  "@global": {
+    "next": "Next",
+    "back": "Back",
+    "close": "Close",
+    "creator": "Creator",
+    "user": "User",
+    "subscribers": "Subscribers",
+    "subscribed": "Subscribed",
+    "notified": "notified",
+    "favorites": "favorites",
+    "muted": "Muted",
+    "previous": "unsubbed",
+    "per-week": "Per week"
+  },
+  "@alert": {
+    "email-regex": {
+      "title": "That doesn't look like an email!",
+      "description": "Please sure you typed your email correctly."
+    },
+    "no-password": {
+      "title": "No password",
+      "description": "Please enter your password"
+    },
+    "no-username": {
+      "title": "Error",
+      "description": "You must enter a username"
+    },
+    "generic": {
+      "title": "Error",
+      "description": "Something went wrong"
+    },
+    "email-sent": {
+      "title": "Email sent!",
+      "description": "Don't forget to check your spam folder!"
+    }
+  },
+  "@auth": {
+    "common": {
+      "login": "Login",
+      "create": "Create Account",
+      "submit": "Submit",
+      "help": {
+        "title": "Need more help?",
+        "alert": "Get in contact! Tweet/message @NotifyTeam on Twitter or email support@notify.me"
+      }
+    },
+    "landing": {
+      "welcome": "Welcome to Notify",
+      "subText": "Sign in or register to get started…"
+    },
+    "login": {
+      "header": "Your credentials...",
+      "forgot": "Forgot Password"
+    },
+    "register": {
+      "email": "What's your email?",
+      "terms": "By creating an account you have read and agree to our ",
+      "tos": "Terms of Service"
+    },
+    "channel-type": {
+      "header": "Which are you?",
+      "notice": "Will you be building a following on Notify or subscribing to other creators?"
+    },
+    "username-set": {
+      "header": "Choose a username",
+      "notice": "Your username is how people will find and interact with you. It is also used as your custom URL."
+    },
+    "more-details": {
+      "displayed": "This is displayed at the top of your channel",
+      "displayname": "Choose your display name",
+      "describe": "In one short line, describe what you create",
+      "located": "Where are you located?"
+    },
+    "two-factor": {
+      "title": "Two Factor",
+      "header": "Your Two Factor Code",
+      "info": "Use the authenticator app of your choice to get your six digit two step code."
+    },
+    "forgot-pass": {
+      "title": "Forgot Password",
+      "header": "Your email address",
+      "info": "Enter your email above and we'll send you a link to reset your password."
+    }
+  },
+  "@settings": {
+    "title": "Settings",
+    "account": {
+      "title": "Account"
+    },
+    "privacy": {
+      "title": "Privacy"
+    },
+    "notif-prefs": {
+      "title": "Notification Preferences"
+    },
+    "devices": {
+      "title": "Devices"
+    },
+    "connections": {
+      "title": "Connections",
+      "auto-posts": "Automatic Posts",
+      "platform": "Platform",
+      "account-name": "Account Name",
+      "account-id": "Account ID"
+    },
+    "edit-channel": "Edit channel",
+    "dark-mode": "Dark mode"
+  },
+  "@discover": {
+    "title": "Discover",
+    "new-in": "New in",
+    "top-subs": "Top Subscribed",
+    "see-more": "See more"
+  },
+  "@my-account": {
+    "activity": {
+      "title": "Activity",
+      "video-call": "%{name} video called you for %{minutes} minutes. Click to watch recording",
+      "subscribed": "You subscribed to %{name}",
+      "logged": "You logged in from a new location in to %{location}"
+    },
+    "dashbord": {
+      "engage": "Engage your audience",
+      "call": {
+        "title": "Call a subscriber",
+        "info": "Engage with your fanbase personally"
+      },
+      "tips": {
+        "title": "Respond to tips",
+        "info": "Thank your supporters for spending coins"
+      }
+    }
+  }
+}
