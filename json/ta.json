@@ -1,57 +1,57 @@
 {
   "@global": {
-    "next": "Next",
-    "back": "Back",
-    "close": "Close",
-    "creator": "Creator",
-    "user": "User",
-    "subscribers": "Subscribers",
+    "next": "அடுத்து",
+    "back": "பின்",
+    "close": "மூடு",
+    "creator": "உண்டாக்குபவர்",
+    "user": "பயனர்",
+    "subscribers": "சந்தாதாரர்கள்",
     "subscribed": "Subscribed",
-    "notified": "notified",
-    "favorites": "favorites",
-    "muted": "Muted",
+    "notified": "அறிவிக்கப்பட்டது",
+    "favorites": "பிடித்தவை",
+    "muted": "முடக்கியது",
     "previous": "unsubbed",
-    "per-week": "Per week"
+    "per-week": "வாரத்திற்கு"
   },
   "@alert": {
     "email-regex": {
-      "title": "That doesn't look like an email!",
-      "description": "Please sure you typed your email correctly."
+      "title": "அது மின்னஞ்சல் போலத் தெரியவில்லை!",
+      "description": "உங்கள் மின்னஞ்சலை சரியாக தட்டச்சு செய்துள்ளீர்கள் என்பதை உறுதிப்படுத்தவும்."
     },
     "no-password": {
-      "title": "No password",
-      "description": "Please enter your password"
+      "title": "கடவுச்சொல் இல்லை",
+      "description": "தங்கள் கடவு சொல்லை பதிவு செய்யவும்"
     },
     "no-username": {
-      "title": "Error",
-      "description": "You must enter a username"
+      "title": "பிழை",
+      "description": "நீங்கள் பயனர்பெயரை உள்ளிட வேண்டும்"
     },
     "generic": {
-      "title": "Error",
-      "description": "Something went wrong"
+      "title": "பிழை",
+      "description": "ஏதோ தவறு நடைபெற்றிருக்கிறது"
     },
     "email-sent": {
-      "title": "Email sent!",
-      "description": "Don't forget to check your spam folder!"
+      "title": "மின்னஞ்சல் அனுப்பப்பட்டது!",
+      "description": "உங்கள் ஸ்பேம் கோப்புறையை சரிபார்க்க மறக்காதீர்கள்!"
     }
   },
   "@auth": {
     "common": {
-      "login": "Login",
-      "create": "Create Account",
-      "submit": "Submit",
+      "login": "உள்நுழைய",
+      "create": "கணக்கை துவங்குங்கள்",
+      "submit": "சமர்ப்பிக்கவும்",
       "help": {
-        "title": "Need more help?",
-        "alert": "Get in contact! Tweet/message @NotifyTeam on Twitter or email support@notify.me"
+        "title": "மேலும் உதவி வேண்டுமா?",
+        "alert": "தொடர்பு கொள்ளுங்கள்! ட்விட்டரில் @NotifyTeam அல்லது support@notify.me என்ற மின்னஞ்சல் முகவரிக்கு அனுப்பவும்"
       }
     },
     "landing": {
-      "welcome": "Welcome to Notify",
-      "subText": "Sign in or register to get started…"
+      "welcome": "நோடிஃபைக்கு வரவேற்கிறோம்",
+      "subText": "தொடங்குவதற்கு உள்நுழைக அல்லது பதிவுசெய்க…"
     },
     "login": {
-      "header": "Your credentials...",
-      "forgot": "Forgot Password"
+      "header": "உங்கள் நற்சான்றிதழ்கள்...",
+      "forgot": "கடவுச்சொல்லை மறந்துவிட்டீர்களா"
     },
     "register": {
       "email": "What's your email?",
