@@ -47,11 +47,11 @@
     },
     "landing": {
       "welcome": "Bienvenido a Notify",
-      "subText": "Inicia sesión o regístrate para comenzar...."
+      "subText": "Inicia sesión o regístrate para comenzar..."
     },
     "login": {
-      "header": "Tus credenciales....",
-      "forgot": "¿Olvidaste tu contraseña?"
+      "header": "Tus credenciales...",
+      "forgot": "Contraseña olvidada"
     },
     "register": {
       "email": "¿Cuál es tu correo electrónico?",
