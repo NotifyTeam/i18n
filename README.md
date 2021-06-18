@@ -1,46 +1,27 @@
 # i18n
-i18n translation files for the Notify app, extension, and website.
+i18n translation files for the Notify app and website.
 
 
 # How to contribute
 
-### What my PR should have
- - [[Language Code](http://www.lingoes.net/en/translator/langcode.htm)].json
-    - *Example : pt.json*
- - Description of what you've done
-    - *Example : Translated Settings Page*
- - What language you're fixing/translating
-     - *Example : Portuguese*
+## Adding a new languages
+  - Make sure you fork the repo and clone it locally
+  - Copy the contents of the "en" *(or a language you're familiar with)* directory (in locales) to the new language's directory (must use a valid [language code](http://www.lingoes.net/en/translator/langcode.htm))
+  - Start changing the translations !
+  - Make a new PR once you're done
+    - *Add all the details of what you've added !*
 
 ### Example
-```
+```json
 {
+  // global.json
   ...
-  "landing": {
-    "welcome": "Welcome to Notify",
-    "subText": "Sign in or register to get started…"
+  "errors": {
+    "server": "Server error !",
+    "unknown": "Unknown error"
   },
   ...
 }
 ```
-![Image](./image/example.png)
-
 ### Already Translated
-- Norwegian
-- Italian
-- Portuguese
-- Spanish
-- English(Pirate)
-- Swedish
-- Polish
 - French
-
-### Left to translate
-- Dutch
-- German
-- Russian
-- Chinese
-- Japanese
-- Whatever your heart desires ❤
-
-
