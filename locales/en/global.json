@@ -1,0 +1,6 @@
+{
+  "errors": {
+    "server": "Server error !",
+    "unknown": "Unknown error"
+  }
+}
