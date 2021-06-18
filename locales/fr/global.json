@@ -1,4 +1,5 @@
 {
+  "welcome": "Bienvenue sur Notify.me",
   "errors": {
     "server": "Erreur serveur",
     "unknown": "Erreur inconnue"
